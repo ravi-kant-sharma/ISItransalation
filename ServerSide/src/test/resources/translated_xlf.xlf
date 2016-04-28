@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.0">
+    <file original="/content/geometrixx/en/company" source-language="en" target-language="fr"/>
+    <header/>
+    <body>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/@subtitle">
+            <source xml:lang="who we are"/>
+            <target xml:lang="Translated text for who we are"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/@jcr:title">
+            <source xml:lang="Company"/>
+            <target xml:lang="Translated text for company"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/text_2/@text">
+            <source xml:lang="&lt;p&gt;&lt;span class=&quot;large&quot;&gt;Geometrixx was founded in 545 BC by Pythagoras of Samos. Since then we have expanded from our ancient Greek origins to become a worldwide geometry and topology provider. We now have offices in Boston, Los Angeles, Basel and Singapore.&lt;/span&gt;&lt;/p&gt;&#xA;"/>
+            <target xml:lang="Translated text for text"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/image/@jcr:description">
+            <source xml:lang="Image Description"/>
+            <target xml:lang="Translated text for Image Description"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/title/@jcr:title">
+            <source xml:lang="industry leader"/>
+            <target xml:lang="Translated text for Industry Leader"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/text/@text">
+            <source xml:lang="&lt;p&gt;Since 545 BC, Geometrixx has cemented its role as an industry thought leader, initiating and leading an industry-wide initiative to define and implement the standard for accessing shape repositories.&lt;/p&gt;&#xA;&lt;p&gt;That standard is BH 90210 - The Shape Repository Protocol (SRP). SRP is designed to overcome the challenge of proprietary shape repositories, helping companies to dramatically reduce costs, while increasing the efficiency and accessibility of their existing shapes.&lt;/p&gt;&#xA;&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;&gt;&lt;/p&gt;&#xA;"/>
+            <target xml:lang="Translated text for par_text"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/title_2/@jcr:title">
+            <source xml:lang="Standard defining"/>
+            <target xml:lang="Translated text for Standard defining"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/text_0/@text">
+            <source xml:lang="&lt;p&gt;Geometrixx is now helping to define industry standards as an expert group member of phase 2 of SRP, BH 90210 (The Sequel). Developed in 2007, BH 90210 is under the continued leadership of Geometrixx’s co-founder Pythagoras of Samos, and in recent months has successfully completed the Public Review process.&lt;/p&gt;&#xA;&lt;p&gt;Pythagoras is also an active committee member of the working group drafting the Shape Management Interoperability Specification (SMIS), a new proposed standard submitted to compliment to SRP.&lt;/p&gt;&#xA;&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;&gt;&lt;/p&gt;&#xA;"/>
+            <target xml:lang="Tranalated text for par text 0"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/title_4/@jcr:title">
+            <source xml:lang=" "/>
+            <target xml:lang="Translated text"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/rightpar/title/@jcr:title">
+            <source xml:lang="Geometrixx Events"/>
+            <target xml:lang="Translated text for Geometrixx events"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/rightpar/title_0/@jcr:title">
+            <source xml:lang="News Archive"/>
+            <target xml:lang="Translated text for News Archive"/>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/title/@jcr:title">
+            <source xml:lang="This is test Title"/>
+            <target xml:lang="Translated text for This is  a test title"/>
+        </trans-unit>
+    </body>
+</xliff>

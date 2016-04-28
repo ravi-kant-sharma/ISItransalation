@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+<file original="sample.properties" source-language="en" datatype="Java Properties">
+<header>
+   <skl>
+      <external-file href="sample.skl"/>
+   </skl>
+</header>
+<body>
+   <trans-unit id="0" xml:space="preserve" approved="yes">
+      <source xml:lang="en">File Conversion</source>
+      <target xml:lang="fr">In French File Conversion</target>
+   </trans-unit>
+   <trans-unit id="1" xml:space="preserve" approved="no">
+      <source xml:lang="en">Convert File to XLIFF Format</source>
+   </trans-unit>
+   <trans-unit id="2" xml:space="preserve" approved="no">
+      <source xml:lang="en">Convert Project Files to XLIFF Format</source>
+   </trans-unit>
+   <trans-unit id="3" xml:space="preserve" approved="no">
+      <source xml:lang="en">Converting File to XLIFF Format...</source>
+   </trans-unit>
+   <trans-unit id="4" xml:space="preserve" approved="no">
+      <source xml:lang="en">Converting Files to XLIFF Format...</source>
+   </trans-unit>
+   <trans-unit id="5" xml:space="preserve" approved="no">
+      <source xml:lang="en">Convert XLIFF File to Original Format</source>
+   </trans-unit>
+   <trans-unit id="6" xml:space="preserve" approved="no">
+      <source xml:lang="en">Convert Project Files to Orignal Format</source>
+   </trans-unit>
+   <trans-unit id="7" xml:space="preserve" approved="no">
+      <source xml:lang="en">Converting File to Original Format...</source>
+   </trans-unit>
+   <trans-unit id="8" xml:space="preserve" approved="no">
+      <source xml:lang="en">Converting Files to Orignal Format...</source>
+   </trans-unit>
+   <trans-unit id="9" xml:space="preserve" approved="no">
+      <source xml:lang="en">Export Project Translations as TMX</source>
+   </trans-unit>
+   <trans-unit id="10" xml:space="preserve" approved="no">
+      <source xml:lang="en">User Authentication</source>
+   </trans-unit>
+   <trans-unit id="11" xml:space="preserve" approved="no">
+      <source xml:lang="en">User Name</source>
+   </trans-unit>
+   <trans-unit id="12" xml:space="preserve" approved="no">
+      <source xml:lang="en">Current User:</source>
+   </trans-unit>
+   <trans-unit id="13" xml:space="preserve" approved="no">
+      <source xml:lang="en">Log in as different user</source>
+   </trans-unit>
+   <trans-unit id="14" xml:space="preserve" approved="no">
+      <source xml:lang="en">User/Password does not match</source>
+   </trans-unit>
+   <trans-unit id="15" xml:space="preserve" approved="no">
+      <source xml:lang="en">Password</source>
+   </trans-unit>
+   <trans-unit id="16" xml:space="preserve" approved="no">
+      <source xml:lang="en">This entry has\
+two lines</source>
+   </trans-unit>
+</body>
+</file>
+</xliff>

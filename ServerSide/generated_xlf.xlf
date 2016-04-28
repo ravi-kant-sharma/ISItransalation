@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.0">
+    <file original="/content/geometrixx/en/company" source-language="en" target-language="fr"/>
+    <header/>
+    <body>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/@subtitle">
+            <source xml:lang="en">who we are</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/@jcr:title">
+            <source xml:lang="en">Company</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/text_2/@text">
+            <source xml:lang="en">&lt;p&gt;&lt;span class=&quot;large&quot;&gt;Geometrixx was founded in 545 BC by Pythagoras of Samos. Since then we have expanded from our ancient Greek origins to become a worldwide geometry and topology provider. We now have offices in Boston, Los Angeles, Basel and Singapore.&lt;/span&gt;&lt;/p&gt;
+</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/image/@jcr:description">
+            <source xml:lang="en">Image Description</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/title/@jcr:title">
+            <source xml:lang="en">industry leader</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/text/@text">
+            <source xml:lang="en">&lt;p&gt;Since 545 BC, Geometrixx has cemented its role as an industry thought leader, initiating and leading an industry-wide initiative to define and implement the standard for accessing shape repositories.&lt;/p&gt;
+&lt;p&gt;That standard is BH 90210 - The Shape Repository Protocol (SRP). SRP is designed to overcome the challenge of proprietary shape repositories, helping companies to dramatically reduce costs, while increasing the efficiency and accessibility of their existing shapes.&lt;/p&gt;
+&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;&gt;&lt;/p&gt;
+</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/title_2/@jcr:title">
+            <source xml:lang="en">Standard defining</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/text_0/@text">
+            <source xml:lang="en">&lt;p&gt;Geometrixx is now helping to define industry standards as an expert group member of phase 2 of SRP, BH 90210 (The Sequel). Developed in 2007, BH 90210 is under the continued leadership of Geometrixx’s co-founder Pythagoras of Samos, and in recent months has successfully completed the Public Review process.&lt;/p&gt;
+&lt;p&gt;Pythagoras is also an active committee member of the working group drafting the Shape Management Interoperability Specification (SMIS), a new proposed standard submitted to compliment to SRP.&lt;/p&gt;
+&lt;p style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;&quot;&gt;&lt;/p&gt;
+</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/par/title_4/@jcr:title">
+            <source xml:lang="en"> </source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/rightpar/title/@jcr:title">
+            <source xml:lang="en">Geometrixx Events</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/rightpar/title_0/@jcr:title">
+            <source xml:lang="en">News Archive</source>
+        </trans-unit>
+        <trans-unit id="/content/geometrixx/en/company/jcr:content/title/@jcr:title">
+            <source xml:lang="en">This is test Title</source>
+        </trans-unit>
+    </body>
+</xliff>
